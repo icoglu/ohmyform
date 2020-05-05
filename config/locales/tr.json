@@ -1,0 +1,22 @@
+{
+	"404_HEADER": "404 - Sayfa bulunamadı",
+	"500_HEADER": "500 - Server hatası",
+	"404_BODY": "%s geçerli uzantı/URL değil.",
+	"500_BODY": "Beklenmedik bir hata oluşmuş gibi görünüyor, neden sayfanızı güncellemeye çalışmıyorsunuz veya sorun devam ederse bizimle iletişime geçebilirsiniz.",
+	"EMAIL_GREETING": "Merhaba",
+	"VERIFICATION_EMAIL_PARAGRAPH_1": "OhMyForm'a hoş geldiniz! İşte yeni hesabınızı etkinleştirmek için özel bir bağlantı:",
+	"VERIFICATION_EMAIL_LINK_TEXT": "Hesabımı etkinleştir",
+	"VERIFICATION_EMAIL_PARAGRAPH_2": "Hizmetlerimizi kullandığınız için teşekkür ederiz! Herhangi bir sorunuz veya öneriniz varsa, lütfen bize bir e-posta gönderin.",
+	"VERIFICATION_EMAIL_SUBJECT": "Yeni OhMyForm hesabınızı etkinleştirin!",
+	"VERIFICATION_EMAIL_TEXT": "Lütfen aşağıdaki bağlantıyı tıklayarak veya kopyalayıp tarayıcınıza yapıştırarak hesabınızı onaylayın: $ {URL}",
+	"EMAIL_SIGNATURE": "- OhMyForm takımı",
+	"WELCOME_EMAIL_PARAGRAPH_1": "Yeni üye olarak hoş geldiniz",
+	"WELCOME_EMAIL_PARAGRAPH_2": "Umarız OhMyForm'dan hoşlanırsınız! Herhangi bir sorunuz varsa, lütfen bize bir e-posta gönderin",
+	"WELCOME_EMAIL_SUBJECT": "Hoşgeldiniz %s!",
+	"WELCOME_EMAIL_TEXT": "Hesabınız başarıyla doğrulandı.",
+	"RESET_PASSWORD_CONFIRMATION_EMAIL_PARAGRAPH_1": "Bu, şifrenizin yeni değiştirildiğini onaylamak için bir nezaket mesajıdır.",
+	"RESET_PASSWORD_REQUEST_EMAIL_PARAGRAPH_1": "Parolanızı sıfırlamak için kullanabileceğiniz özel bir bağlantı: Lütfen korumanız için bir saat içinde süresinin dolduğunu unutmayın:",
+	"RESET_PASSWORD_REQUEST_EMAIL_LINK_TEXT": "Parolayı sıfırla",
+	"RESET_PASSWORD_REQUEST_EMAIL_PARAGRAPH_2": "İstemiyoesanız bu e-postayı dikkate almayınız.",
+	"INVALID_SUB_DOMAIN": "Subdomain bulunamadı"
+}
